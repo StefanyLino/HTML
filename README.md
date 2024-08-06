@@ -6,4 +6,6 @@ PROJETOS:
 - Minha Primeira Página Web
 - Estrutura Básica HTML/TXT
 - Parágrafo e títulos
+- Links
+- Imagem
 
