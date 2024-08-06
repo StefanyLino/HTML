@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Indicação de Filme</title>
+	</head>
+	<body>
+		<h1>COMO ESTRELAS NA TERRA</h1>
+		<img src="https://upload.wikimedia.org/wikipedia/en/b/b4/Taare_Zameen_Par_Like_Stars_on_Earth_poster.png" alt="Foto 		do Filme Como Estrelas na Terra">
+	
+	<h2>Ano de produção: 2007</h2>
+	<h2>Dirigido por: Aamir Khan</h2>
+	<h2>Duração: 164 minutos</h2>
+	<h2>Classificação: Livre para todos os públicos</h2>
+	<h2>Gênero: Drama, Ação, Musical</h2>
+	<h2>País de origem: Índia</h2>
+	<h2>Sinopse</h2><p>Como Estrelas na Terra é a história de uma criança interpretada por Darsheel Safari que
+
+sofre de dislexia. Como resultado, ele é incapaz de lidar com a vida diária, durante a primeira infância. A melhoria em sua vida é feita pelo professor interpretado por Aamir Khan, que explica o problema aos pais de Darsheel e aos poucos se esforça para melhorar a vida daquela pobre criança.</p>
+
+	<p>Para mais informações acesse: <a href="https://www.imdb.com/title/tt0986264/plotsummary/?ref_=tt_ov_pl" target="_blank">IMDB</a></p>
+
+	</body>
+</html>
