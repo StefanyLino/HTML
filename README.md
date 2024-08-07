@@ -3,9 +3,9 @@
 *Aulas de HTML e os arquivos desenvolvidos usando essa linguagem de marcação.*
 
 PROJETOS:
-- Minha Primeira Página Web
-- Estrutura Básica HTML/TXT
-- Parágrafo e títulos
-- Links
-- Imagem
+- Minha primeira página web
+- Estrutura básica HTML/TXT
+- Parágrafo e títulos usando HTML
+- Links integrados
+- Imagens (remotas e por link)
 
