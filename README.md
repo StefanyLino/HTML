@@ -8,4 +8,5 @@ PROJETOS:
 - Parágrafo e títulos usando HTML
 - Links integrados
 - Imagens (remotas e por link)
+- Semântica
 
