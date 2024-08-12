@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+<head>
+	<!-- Renderiza caracteres especiais corretamente -->
+	<meta charset="UTF-8">
+	<!-- Permite reconhecer quando aberto em tela menor -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Fear - Citizens & Saints - LETRAS.MUS.BR</title>
+	
+</head>
+<body>
+	<img src="img/Topo.png" alt="Topo da página">
+	<p style="color:grey; font-size:12px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; página inicial >> 	gospel/religioso >> 	citizens & saints >> fear</p>
+
+	<center>
+	<img src="img/anuncio.png" alt="Banner de propaganda">
+	</center>	
+
+	<p style="color:red; font-size:35px;line"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="img/avatar.png" alt="Foto do artista">
+	<b>Fear</b>
+	<p style="color:yellow; font-size:30px;line"
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<b>Citizens & Saints</b>
+	</p>
+
+	<p style="font-size:30px; margin-left:270px;">
+	I'm a prisoner of my own invention <br>
+	Half empty glasses scattered in my head <br> 
+	All the million sparks of good intention <br>
+	I watch them all just flicker out instead <br>
+	Darkness is all that’s left, where's Your light?</p>
+
+	<img src="img/video.png" alt="Vídeo de propaganda" align="right">
+
+	<p style="font-size:30px; margin-left:270px;">
+	I can't find the faith <br>
+	And I’m feeling so afraid <br>
+	And I don't want to be <br>
+	Stuck a captive in this cage <br>
+	I need to break out <br>
+	I've tried all I can do <br>
+	Only You can bend these bars <br>
+	I want to fly away with, You <br>
+	</p>
+
+	<p style="font-size:30px; margin-left:270px;">
+	I'm a victim of my own defenses <br>
+	The feel of flight turns fiction in my head <br>
+	Darkness is all around, where's Your light? <br>
+	</p>
+
+	<p style="font-size:30px; margin-left:270px;">
+	I can't find the faith <br>
+	And I'm feeling so afraid <br>
+	But I don't want to be <br>
+	Stuck a captive in this cage <br>
+	I need to break out <br>
+	I’ve tried all I can do <br>
+	Only You can bend these bars <br>
+	I want to fly away with, You <br>
+	</p>
+
+	<p style="font-size:30px; margin-left:270px;">
+	I can see a light ahead and it’s bright <br>
+	Reaching out to take my hand <br>
+	To go flying, we're flying on and on <br>
+	Take it in <br>
+	I’m so alive <br>
+	We're flying, we're flying on and on <br>
+	</p>
+
+
+</body>
+</html>
