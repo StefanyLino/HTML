@@ -10,4 +10,5 @@ PROJETOS:
 - Imagens (remotas e por link)
 - Semântica
 - Página de filme
-- Site Letras.com
+- Site clone "Letras.com"
+- Tabelas
