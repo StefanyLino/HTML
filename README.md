@@ -12,4 +12,4 @@ PROJETOS:
 - Página de filme
 - Site clone "Letras.com"
 - Tabelas
-- Listas
+- Listas (Ordenada e Não Ordenada)
