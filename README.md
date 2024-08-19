@@ -14,3 +14,5 @@ PROJETOS:
 - Tabelas
 - Listas (Ordenada e Não Ordenada)
 - Site clone "Google.com"
+- Formulários (com ou sem seletores)
+- Inserção de imagens e vídeos
